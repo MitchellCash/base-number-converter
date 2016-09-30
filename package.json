@@ -1,0 +1,20 @@
+{
+  "name": "base-number-converter",
+  "main": "./lib/base-number-converter",
+  "version": "0.0.1",
+  "description": "Convert highlighted text between Binary (base-2), Decimal (base-10) and Hexadecimal (base-16) in Atom.",
+  "keywords": [
+    "base-number-converter",
+    "binary",
+    "decimal",
+    "hexadecimal",
+    "converter"
+  ],
+  "repository": "https://github.com/mitchellcash/base-number-converter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-a": "base-number-converter:binaryToDecimal",
+    "ctrl-alt-b": "base-number-converter:binaryToHex",
+    "ctrl-alt-c": "base-number-converter:decimalToHex",
+    "ctrl-alt-d": "base-number-converter:decimalToBinary",
+    "ctrl-alt-e": "base-number-converter:hexToBinary",
+    "ctrl-alt-f": "base-number-converter:hexToDecimal"
+  }
+}

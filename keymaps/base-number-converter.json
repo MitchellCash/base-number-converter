@@ -1,0 +1,8 @@
+{
+  "atom-workspace": {
+    "ctrl-shift-a": "base-number-converter:binarytoDecimal",
+    "ctrl-shift-b": "base-number-converter:decimaltoBinary",
+    "ctrl-shift-c": "base-number-converter:decimaltoHex",
+    "ctrl-shift-d": "base-number-converter:hexToAscii"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert Binary to Decimal",
+        "command": "base-number-converter:binarytoDecimal"
+      },
+      {
+        "label": "Convert Decimal to Binary",
+        "command": "base-number-converter:decimaltoBinary"
+      },
+      {
+        "label": "Convert Decimal to Hex",
+        "command": "base-number-converter:decimaltoHex"
+      },
+      {
+        "label": "Hex To ASCII",
+        "command": "base-number-converter:hexToAscii"
+      }
+    ]
+  }
+}

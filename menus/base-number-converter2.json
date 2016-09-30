@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle binaryToDecimal",
+        "command": "base-number-converter:binaryToDecimal"
+      },
+      {
+        "label": "Toggle binaryToHex",
+        "command": "base-number-converter:binaryToHex"
+      },
+      {
+        "label": "Toggle decimalToHex",
+        "command": "base-number-converter:decimalToHex"
+      },
+      {
+        "label": "Toggle decimalToBinary",
+        "command": "base-number-converter:decimalToBinary"
+      },
+      {
+        "label": "Toggle hexToBinary",
+        "command": "base-number-converter:hexToBinary"
+      },
+      {
+        "label": "Toggle hexToDecimal",
+        "command": "base-number-converter:hexToDecimal"
+      }
+    ]
+  }
+}
